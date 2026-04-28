@@ -268,16 +268,6 @@ Uses a Crashlytics trigger.
 Automatically sends a Slack notification to a specific Slack channel when a new issue is reported in Crashlytics.
 Uses a Crashlytics trigger.
 
-
-## Contributing
-
-We'd love that you contribute to the project. Before doing so please read our [Contributor guide](CONTRIBUTING.md).
-
-
-## License
-
-© Google, 2015-2017. Licensed under an [Apache-2](LICENSE) license.
-
 ## Build Status
 
 [![Build Status](https://travis-ci.org/firebase/functions-samples.svg?branch=master)](https://travis-ci.org/firebase/functions-samples)

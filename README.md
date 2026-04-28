@@ -1,5 +1,3 @@
-## All the samples on this branch are using the Node 8 runtime which is in beta and use ES2017 syntax. If you'd like to use ES2015 syntax because you're using the Node 6 runtime have a look at the [**master** branch](https://github.com/firebase/functions-samples/tree/master).
-
 # Cloud Functions for Firebase Sample Library
 
 This repository contains a collection of samples showcasing some typical uses of [Cloud Functions for Firebase](https://firebase.google.com/features/functions).
@@ -10,8 +8,9 @@ Cloud Functions is a hosted, private, and scalable Node.js environment where you
 
 ## Prerequisites
 
-To learn how to get started with Cloud Functions for Firebase by having a look at our [Getting Started Guide](https://firebase.google.com/docs/functions/get-started), trying the [quickstart samples](/quickstarts) and looking at [the documentation](https://firebase.google.com/docs/functions).
+To learn how to get started with Cloud Functions for Firebase by having a look at [Getting Started Guide](https://firebase.google.com/docs/functions/get-started), trying the [quickstart samples](/quickstarts) and looking at [the documentation](https://firebase.google.com/docs/functions).
 
+All the samples on this branch are using the Node 8 runtime which is in beta and use ES2017 syntax. If you'd like to use ES2015 syntax because you're using the Node 6 runtime have a look at the [**master** branch](https://github.com/firebase/functions-samples/tree/master).
 
 ## Samples Overview
 
